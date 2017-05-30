@@ -8,19 +8,25 @@
     Public Function AccentChanger(ByVal selectedAccent As String)
         Select Case (True)
             Case selectedAccent = "SoCIT"
-                mainRed = 9 : mainBlue = 67 : mainGreen = 149 : changeColor(9, 67, 149)
+                changeColor(9, 67, 149)
+                mainRed = 9
+                mainGreen = 149
+                mainBlue = 67
             Case selectedAccent = "SoE"
-                mainRed = 211 : mainBlue = 100 : mainGreen = 46 : changeColor(211, 100, 46)
+                changeColor(211, 100, 46)
+                mainRed = 211
+                mainGreen = 46
+                mainBlue = 100
             Case selectedAccent = "SoM"
                 changeColor(223, 171, 25)
                 mainRed = 223
-                mainBlue = 171
                 mainGreen = 25
+                mainBlue = 171
             Case selectedAccent = "SoMA"
                 changeColor(223, 24, 31)
                 mainRed = 223
-                mainBlue = 24
                 mainGreen = 31
+                mainBlue = 24
         End Select
     End Function
 
