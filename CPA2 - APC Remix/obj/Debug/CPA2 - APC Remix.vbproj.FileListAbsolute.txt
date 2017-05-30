@@ -1,0 +1,52 @@
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe.config
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.pdb
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.xml
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.Resources.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbproj.GenerateResource.Cache
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.exe
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.xml
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.pdb
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbprojResolveAssemblyReference.cache
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.CSQuestions.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.MainForm.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.ELQuestions.resources
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe.config
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.exe
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.xml
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.pdb
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.pdb
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.xml
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbprojResolveAssemblyReference.cache
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.CSQuestions.resources
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.ELQuestions.resources
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.MainForm.resources
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.Resources.resources
+E:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbproj.GenerateResource.Cache
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe.config
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.exe
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.xml
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.pdb
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.pdb
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.xml
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbprojResolveAssemblyReference.cache
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.CSQuestions.resources
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.ELQuestions.resources
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.MainForm.resources
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.Resources.resources
+D:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbproj.GenerateResource.Cache
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe.config
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.exe
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.xml
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.pdb
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.exe
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.pdb
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\bin\Debug\CPA2 - APC Remix.xml
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbprojResolveAssemblyReference.cache
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.CSQuestions.resources
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.ELQuestions.resources
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.MainForm.resources
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2___APC_Remix.Resources.resources
+F:\Harvard Computer Society\CPA2 - APC Remix\CPA2 - APC Remix\obj\Debug\CPA2 - APC Remix.vbproj.GenerateResource.Cache
