@@ -358,8 +358,5 @@
             CSAns39.Enabled = False
             CSAns37.Enabled = False
         End If
-
     End Sub
-
-
 End Class

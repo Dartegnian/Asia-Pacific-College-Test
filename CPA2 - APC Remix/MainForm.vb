@@ -23,6 +23,7 @@
                 mainGreen = 31
         End Select
     End Function
+
     Private Function ChangeColor(ByVal Red As Integer, Blue As Integer, Green As Integer)
         CSSelector.BackColor = Color.FromArgb(Red, Blue, Green)
         ELSelector.BackColor = Color.FromArgb(Red, Blue, Green)
@@ -119,6 +120,7 @@
             Questions.Controls.Add(csPage)
         End If
     End Sub
+
     Private Sub ELLabel_Click(sender As Object, e As EventArgs) Handles ELLabel.Click
         If (Questions.Controls.Contains(elPage) = True) Then
         Else
@@ -185,5 +187,4 @@
     Private Sub SoMAButton_Click(sender As Object, e As EventArgs) Handles SoMAButton.Click
         AccentChanger("SoMA")
     End Sub
-
 End Class
