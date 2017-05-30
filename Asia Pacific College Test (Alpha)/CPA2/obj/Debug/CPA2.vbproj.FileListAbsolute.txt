@@ -1,0 +1,13 @@
+c:\users\dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\bin\Debug\CPA2.exe.config
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\bin\Debug\CPA2.exe
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\bin\Debug\CPA2.pdb
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\bin\Debug\CPA2.xml
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.vbprojResolveAssemblyReference.cache
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.Form1.resources
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.Resources.resources
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.vbproj.GenerateResource.Cache
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.exe
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.xml
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.pdb
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.CSQuestions1.resources
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\CPA2\CPA2\obj\Debug\CPA2.CSQuestions2.resources
