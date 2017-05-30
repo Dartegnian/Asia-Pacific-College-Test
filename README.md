@@ -1,2 +1,2 @@
 # Asia Pacific College Testing Program
-A testing program that I made for my Graphical User Interface Programming class.
+Our professor tasked us to develop a program that utilizes radiobuttons as a means of selection. The best program I thought of was a testing program. And thus, this program was created.
